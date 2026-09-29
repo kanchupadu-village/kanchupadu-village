@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kanchupadu-village.github.io/kanchupadu-village/sitemap.xml
